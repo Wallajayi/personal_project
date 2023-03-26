@@ -13,12 +13,12 @@ int main(void)
 	printf("pls input first number :");
 	scanf("%lf", &x);
 
-	printf("pls input secomd number :");
+	printf("pls input second number :");
 	scanf("%lf", &y);
 
 	z = x + y;
 
-	printf("Ans =  %lf\nThank you for CALCULATING with us\n", z);
+	printf("Ans = %lf\nThank you for CALCULATING with Awwal's_calc\n", z);
 
 	return (0);
 }
