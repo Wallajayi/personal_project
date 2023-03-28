@@ -4,8 +4,8 @@ These Repo contains all my personal projects used in practicing all i have learn
 
  C Language
 -----------------------------------
-* Awwal's Calculator
-* Multiplication Table Template
+* Calculator.c
+* Mult_table.c
 
  Phyton Language
 ---------------------------
